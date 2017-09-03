@@ -73,7 +73,7 @@ class PaperKeyGenerator
     }
 
     /**
-     * Set the count.á
+     * Set the count.
      *
      * @param $count
      * @return \KoenHoeijmakers\PaperKeyGenerator\PaperKeyGenerator
