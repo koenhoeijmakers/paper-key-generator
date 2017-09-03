@@ -2,6 +2,13 @@
 
 A paper key generator for PHP, simply generates a count of words to be used as a paper key.
 
+## Installation
+
+Require the package with composer.
+```php
+composer require koenhoeijmakers/paper-key-generator
+```
+
 ## Usage
 
 Create a new instance of the class and call the `->make()` method.
