@@ -29,14 +29,14 @@ $paperKey->make();
 
 Optionally you can set a different divider and / or word count.
 ```php
-$generator->setDivider('-')->setCount(6)->make();
+$paperKey->setDivider('-')->setCount(6)->make();
 
 // doctor-clown-settle-material-smooth-away
 ```
 
 Which can also be done on the fly.
 ```php
-$generator->make([
+$paperKey->make([
     'divider' => '=',
     'count'   => 8,
 ]);
