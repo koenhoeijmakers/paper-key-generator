@@ -1,5 +1,6 @@
 # Paper Key Generator
 [![Packagist](https://img.shields.io/packagist/v/koenhoeijmakers/paper-key-generator.svg?colorB=brightgreen)](https://packagist.org/packages/koenhoeijmakers/paper-key-generator)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/koenhoeijmakers/paper-key-generator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/koenhoeijmakers/paper-key-generator/?branch=master)
 [![Code Climate](https://img.shields.io/codeclimate/github/koenhoeijmakers/paper-key-generator.svg)](https://codeclimate.com/github/koenhoeijmakers/paper-key-generator)
 [![license](https://img.shields.io/github/license/koenhoeijmakers/paper-key-generator.svg?colorB=brightgreen)](https://github.com/koenhoeijmakers/paper-key-generator)
 [![Packagist](https://img.shields.io/packagist/dt/koenhoeijmakers/paper-key-generator.svg?colorB=brightgreen)](https://packagist.org/packages/koenhoeijmakers/paper-key-generator)
