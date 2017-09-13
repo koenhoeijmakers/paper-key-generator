@@ -5,7 +5,6 @@ namespace KoenHoeijmakers\PaperKeyGenerator\Factories;
 use KoenHoeijmakers\PaperKeyGenerator\PaperKeyGenerator;
 use KoenHoeijmakers\PaperKeyGenerator\WordLists\EnglishWordList;
 use KoenHoeijmakers\PaperKeyGenerator\WordLists\Interfaces\WordListInterface;
-use KoenHoeijmakers\PaperKeyGenerator\WordLists\JapaneseWordList;
 
 class PaperKeyFactory
 {
