@@ -23,7 +23,7 @@ class PaperKeyGenerator
     /**
      * The WordList implementation.
      *
-     * @var \KoenHoeijmakers\PaperKeyGenerator\WordLists\WordList
+     * @var \KoenHoeijmakers\PaperKeyGenerator\WordLists\Interfaces\WordListInterface
      */
     protected $wordList;
 
